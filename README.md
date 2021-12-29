@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到无の小站
 
 You can use the [editor on GitHub](https://github.com/xvpl0312/xvpl/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
